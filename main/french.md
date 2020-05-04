@@ -103,7 +103,7 @@ Fonctionnel: Allemand
 - Gatineau, Québec, Canada
 
 `2010 - 2012`
-**École Cours Champollion (Private)**
+**École Cours Champollion (Privée)**
 
 - Villeneuve-Loubet, France
 
@@ -127,7 +127,7 @@ Fonctionnel: Allemand
 `July 2018`
 **Diplôme National du Brevet (DNB)**
 
-- International Option
+- Option Internationale
 
 _Dernière Mise à Jour: Mai 2020_
 
