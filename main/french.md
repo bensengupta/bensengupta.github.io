@@ -15,7 +15,7 @@ Châteauneuf-Grasse, France
 <div id="webaddress">
   <a href="https://gitlab.com/bensengupta"><i class="fab fa-gitlab"></i> Gitlab</a>
   <a href="https://github.com/bensengupta"><i class="fab fa-github"></i> Github</a>
-  <a href="/en/"><span class="flag-icon flag-icon-gb" style="height: 0.9em"></span> English Version</a>
+  <a href="/cv/en/"><span class="flag-icon flag-icon-gb" style="height: 0.9em"></span> English Version</a>
 </div>
 
 ## Profil
@@ -103,7 +103,7 @@ Fonctionnel: Allemand
 - Gatineau, Québec, Canada
 
 `2010 - 2012`
-**École Cours Champollion (Private)**
+**École Cours Champollion (Privée)**
 
 - Villeneuve-Loubet, France
 
@@ -127,7 +127,7 @@ Fonctionnel: Allemand
 `July 2018`
 **Diplôme National du Brevet (DNB)**
 
-- International Option
+- Option Internationale
 
 _Dernière Mise à Jour: Mai 2020_
 
