@@ -16,7 +16,7 @@ Châteauneuf-Grasse, France
 <div id="webaddress">
   <a href="https://gitlab.com/bensengupta"><i class="fab fa-gitlab"></i> Gitlab</a>
   <a href="https://github.com/bensengupta"><i class="fab fa-github"></i> Github</a>
-  <a href="/cv/fr/"><span class="flag-icon flag-icon-fr" style="height: 0.9em"></span> Version Française</a>
+  <a href="/cv/fr/"><i class="flag-icon flag-icon-fr" style="height: 0.9em"></i> Version Française</a>
 </div>
 
 ## Profile
