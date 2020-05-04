@@ -1,2 +1,6 @@
-markdown:   kramdown
-style:  kjhealy
+markdown: kramdown
+style: davewhipp
+plugins:
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-redirect-from
