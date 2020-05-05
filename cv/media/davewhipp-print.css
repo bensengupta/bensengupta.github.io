@@ -90,6 +90,7 @@ video {
   font-size: 100%;
   font: inherit;
   vertical-align: baseline;
+  color: var(--font-color);
 }
 /* HTML5 display-role reset for older browsers */
 article,
@@ -137,7 +138,8 @@ body {
   /*also written as...  font: normal normal 400 100%/1.5em;*/
   font-family: Avenir, Verdana, sans-serif;
   /*margin-top: 1em;
-	margin-left: 1em;*/
+  margin-left: 1em;*/
+  background-color: var(--bg-color);
 }
 
 p {
@@ -153,7 +155,7 @@ code {
   font-size: 90%;
   /*line-height: 1em;*/
   font-family: Monaco, Menlo, monospace, sans-serif;
-  color: #ccc;
+  color: var(--muted-color);
 }
 
 p code {
@@ -217,7 +219,7 @@ h1 + p {
 
 h2 {
   font-size: 1.1em;
-  color: #a00;
+  color: var(--primary-color);
   margin-top: 2em;
   position: relative;
   top: 1.2em;
@@ -228,11 +230,11 @@ h2 {
 h3 {
   font-size: 1em;
   line-height: 2em;
-  color: #ccc;
   position: relative;
   top: 1.6em;
   text-align: right;
   width: 20%;
+  color: var(--secondary-color);
 }
 
 a {
@@ -240,15 +242,11 @@ a {
   text-decoration: none;
 }
 
-a:hover {
-  color: #39f;
-}
-
-#webaddress {
+#webaddress div {
   margin-top: 1em;
   position: relative;
   left: 25%;
-  color: #ccc;
+  color: var(--primary-color);
   font-family: Monaco, Menlo, monospace, sans-serif;
   font-size: 90%;
 }
@@ -267,6 +265,11 @@ strong {
 }
 
 #ghbutton {
+  display: none;
+  visibility: hidden;
+}
+
+#social {
   display: none;
   visibility: hidden;
 }

@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include favicons.html %}
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    {% if page.title %}
+    <title>{{ page.title }}</title>
+    {% endif %}
+    <style>
+      body {
+        background-color: var(--bg-color);
+        font-size: larger;
+      }
+
+      h1 {
+        font-size: 4em;
+        font-family: "Fira Mono", monospace;
+        color: var(--font-color);
+      }
+
+      h3 {
+        font-family: "Roboto", sans-serif;
+        font-weight: 100;
+        color: var(--font-color);
+      }
+
+      a {
+        font-family: "Roboto", sans-serif;
+        color: var(--anchor-color);
+        text-decoration: none;
+      }
+
+      a:hover {
+        color: var(--anchor-hover-color);
+        text-decoration: underline;
+      }
+
+      .table-container {
+        display: table;
+        position: absolute;
+        left: 0;
+        width: 100%;
+      }
+
+      .cell-center {
+        display: table-cell;
+        vertical-align: middle;
+        text-align: center;
+      }
+
+      .cell-center * {
+        display: inline-block;
+        vertical-align: middle;
+      }
+
+      .title-container * {
+        display: block;
+        margin: 10px;
+      }
+
+      .card {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
+          0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        border-radius: 7px;
+        background-color: var(--surface-color);
+        padding: 5em 10em 5em 10em;
+      }
+
+      @media only screen and (max-width: 600px) {
+        .card {
+          padding: 3em 6em 3em 6em;
+        }
+      }
+    </style>
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap"
+      rel="stylesheet"
+    />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fira+Mono:wght@700&family=Roboto:wght@100&family=Source+Code+Pro:wght@700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="/media/dark-switcher-screen.css"
+      type="text/css"
+      rel="stylesheet"
+      media="screen"
+    />
+    <link
+      href="/media/dark-switcher-print.css"
+      type="text/css"
+      rel="stylesheet"
+      media="print"
+    />
+  </head>
+  <body>
+    {% include dark-switch.html %}
+    <div class="table-container">
+      <div class="cell-center">
+        <div class="card">
+          <div class="title-container">
+            {{ content }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

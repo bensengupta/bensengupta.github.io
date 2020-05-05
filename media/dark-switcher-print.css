@@ -1,0 +1,13 @@
+:root {
+  --primary-color: #a00;
+  --secondary-color: #536390;
+  --font-color: #424242;
+  --bg-color: #fff;
+  --heading-color: #292922;
+  --code-bg-color: #aaa;
+}
+
+.theme-switch-wrapper {
+  display: none;
+  visibility: hidden;
+}

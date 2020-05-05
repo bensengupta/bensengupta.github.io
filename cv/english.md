@@ -14,9 +14,15 @@ Châteauneuf-Grasse, France
 <a href="mailto:benjamin.sengupta@gmail.com">benjamin.sengupta@gmail.com</a> - +33 (0)6 35 25 45 59
 
 <div id="webaddress">
-  <a href="https://gitlab.com/bensengupta"><i class="fab fa-gitlab"></i> Gitlab</a>
+  <div id="social">
+    <a href="https://gitlab.com/bensengupta"><i class="fab fa-gitlab"></i> Gitlab</a>
   <a href="https://github.com/bensengupta"><i class="fab fa-github"></i> Github</a>
   <a href="/cv/fr/"><i class="flag-icon flag-icon-fr" style="height: 0.9em"></i> Version Française</a>
+  </div>
+  <div id="usernames">
+    <i class="fab fa-gitlab"></i> @bensengupta
+    <i class="fab fa-github"></i> @bensengupta
+  </div>
 </div>
 
 ## Profile
