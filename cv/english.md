@@ -12,7 +12,7 @@ Student, Frontend Software Engineer.
 
 Châteauneuf-Grasse, France
 
-<a href="mailto:benjamin.sengupta@gmail.com">benjamin.sengupta@gmail.com</a> - +33 (0)6 35 25 45 59
+<a href="mailto:benjamin.sengupta@gmail.com">benjamin.sengupta@gmail.com</a>
 
 <div id="webaddress">
   <div id="social">
@@ -100,37 +100,42 @@ Functional: German
 
 ## Education
 
-`2007-2009`
-**École Publique Kanata**
+`2018 - 2021`
+**Lycée International de Valbonne (GPA 16.5)**
 
-- Kanata, Ontario, Canada
-
-`2009 - 2010`
-**École du Plateau**
-
-- Gatineau, Québec, Canada
-
-`2010 - 2012`
-**École Cours Champollion (Private)**
-
-- Villeneuve-Loubet, France
-
-`2012 - 2014`
-**École Noël Lanza**
-
-- La Colle-sur-Loup, France
+- Sophia Antipolis, France
 
 `2014 - 2018`
 **Collège César**
 
 - Roquefort-les-Pins, France
 
-`2018 - 2021`
-**Lycée International de Valbonne (GPA 16.5)**
+`2012 - 2014`
+**École Noël Lanza**
 
-- Sophia Antipolis, France
+- La Colle-sur-Loup, France
+
+`2010 - 2012`
+**École Cours Champollion (Private)**
+
+- Villeneuve-Loubet, France
+
+`2009 - 2010`
+**École du Plateau**
+
+- Gatineau, Québec, Canada
+
+`2007-2009`
+**École Publique Kanata**
+
+- Kanata, Ontario, Canada
 
 ## Qualifications
+
+`In Progress — July 2021`
+**Baccalauréat (General)**
+
+- International Option
 
 `July 2018`
 **Diplôme National du Brevet (DNB)**
