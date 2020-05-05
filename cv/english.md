@@ -1,5 +1,6 @@
 ---
 layout: cv
+lang: en
 title: Benjamin Sengupta
 permalink: /cv/en/
 redirect_from: /
@@ -16,8 +17,8 @@ Châteauneuf-Grasse, France
 <div id="webaddress">
   <div id="social">
     <a href="https://gitlab.com/bensengupta"><i class="fab fa-gitlab"></i> Gitlab</a>
-  <a href="https://github.com/bensengupta"><i class="fab fa-github"></i> Github</a>
-  <a href="/cv/fr/"><i class="flag-icon flag-icon-fr" style="height: 0.9em"></i> Version Française</a>
+    <a href="https://github.com/bensengupta"><i class="fab fa-github"></i> Github</a>
+    <a href="/cv/fr/"><i class="flag-icon flag-icon-fr" style="height: 0.9em"></i> Version Française</a>
   </div>
   <div id="usernames">
     <i class="fab fa-gitlab"></i> @bensengupta

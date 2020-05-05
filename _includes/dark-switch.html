@@ -3,7 +3,9 @@
     <input type="checkbox" id="checkbox" />
     <div class="slider round"></div>
   </label>
-  <h6>Dark Mode</h6>
+  <span>
+    {% if page.lang == "fr" %} Mode Sombre {% else %} Dark Mode {% endif %}
+  </span>
 </div>
 
 <script>

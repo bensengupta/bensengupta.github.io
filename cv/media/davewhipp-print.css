@@ -257,6 +257,10 @@ a {
   text-decoration: none;
 }
 
+#webaddress i {
+  color: inherit;
+}
+
 em {
   font-style: normal;
   color: #2d4e5e;

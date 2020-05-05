@@ -1,5 +1,6 @@
 ---
 layout: cv
+lang: fr
 title: Benjamin Sengupta
 permalink: /cv/fr/
 ---
