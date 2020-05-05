@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: Benjamin Sengupta
-permalink: /fr/
+permalink: /cv/fr/
 ---
 
 # Benjamin T. Sengupta

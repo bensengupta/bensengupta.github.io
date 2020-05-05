@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: Benjamin Sengupta
-permalink: /en/
+permalink: /cv/en/
 redirect_from: /
 ---
 
