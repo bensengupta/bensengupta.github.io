@@ -139,4 +139,4 @@ Functional: German
 
 _Last updated: May 2020_
 
-Icons from [Font Awesome](https://fontawesome.com/license) and [Flag Icons](https://flagicons.lipis.dev/)
+Icons from [Font Awesome](https://fontawesome.com/license) and [Flag Icons](https://flagicons.lipis.dev/), based on [Markdown CV](https://github.com/elipapa/markdown-cv)

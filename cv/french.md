@@ -138,4 +138,4 @@ Fonctionnel: Allemand
 
 _Dernière Mise à Jour: Mai 2020_
 
-Icônes de [Font Awesome](https://fontawesome.com/license) et [Flag Icons](https://flagicons.lipis.dev/)
+Icônes de [Font Awesome](https://fontawesome.com/license) et [Flag Icons](https://flagicons.lipis.dev/), basée sur [Markdown CV](https://github.com/elipapa/markdown-cv)

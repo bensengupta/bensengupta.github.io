@@ -184,6 +184,7 @@ ul {
 li {
   /*second line indent*/
   padding-left: 1.25em;
+  padding-right: 1.25em;
   text-indent: -1.25em;
   /*color: #777;*/
 }
@@ -210,6 +211,7 @@ h1 {
   line-height: 1em;
   position: relative;
   left: 25%;
+  width: 75%;
   margin-bottom: 0.3em;
 }
 
@@ -254,6 +256,7 @@ a:hover {
   color: var(--primary-color);
   font-family: Monaco, Menlo, monospace, sans-serif;
   font-size: 100%;
+  width: 75%;
 }
 
 #webaddress a {
