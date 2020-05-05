@@ -3,6 +3,8 @@
    License: none (public domain)
 */
 
+@import "monokai.css";
+
 html,
 body,
 div,
@@ -280,3 +282,7 @@ strong {
 @media only screen and (max-width: 480px) {
 	make one column somehow...
 }*/
+
+.highlight pre {
+  background-color: var(--surface-color);
+}

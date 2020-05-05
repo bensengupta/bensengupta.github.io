@@ -1,4 +1,9 @@
 markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  hard_wrap: false
+  syntax_highlighter: rouge
 style: davewhipp
 plugins:
   - jekyll-redirect-from

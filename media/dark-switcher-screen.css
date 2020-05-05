@@ -37,18 +37,17 @@ html {
 }
 
 .theme-switch-wrapper h6 {
-  margin-left: 10px;
+  padding-left: 10px;
   font-size: 1rem;
   font-family: Avenir, Cousine, Verdana, sans-serif;
-  padding-left: 5px;
   color: var(--font-color);
 }
 
 .theme-switch {
+  height: 28px;
+  width: 50px;
   display: inline-block;
-  height: 34px;
   position: relative;
-  width: 60px;
 }
 
 .theme-switch input {
@@ -70,11 +69,11 @@ html {
   background-color: #fff;
   bottom: 4px;
   content: "";
-  height: 26px;
+  height: 20px;
+  width: 20px;
   left: 4px;
   position: absolute;
   transition: 0.4s;
-  width: 26px;
 }
 
 input:checked + .slider {
@@ -82,11 +81,11 @@ input:checked + .slider {
 }
 
 input:checked + .slider:before {
-  transform: translateX(26px);
+  transform: translateX(22px);
 }
 
 .slider.round {
-  border-radius: 34px;
+  border-radius: 28px;
 }
 
 .slider.round:before {

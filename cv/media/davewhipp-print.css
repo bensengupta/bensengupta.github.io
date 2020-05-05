@@ -3,6 +3,8 @@
    License: none (public domain)
 */
 
+@import "monokai.css";
+
 html,
 body,
 div,
@@ -272,4 +274,8 @@ strong {
 #social {
   display: none;
   visibility: hidden;
+}
+
+.highlight pre {
+  background-color: var(--surface-color);
 }
