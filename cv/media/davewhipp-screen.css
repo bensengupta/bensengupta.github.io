@@ -106,11 +106,6 @@ ul {
 	left: -0.25em;
 }*/
 
-li {
-  padding-left: 1.25em;
-  padding-right: 1.25em;
-}
-
 li ul {
   position: relative;
   left: 0;
@@ -264,10 +259,5 @@ strong {
     left: 0;
     width: 100%;
     margin-top: -0.5em;
-  }
-
-  li {
-    padding-left: 0;
-    padding-right: 0;
   }
 }
