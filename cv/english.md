@@ -8,9 +8,9 @@ redirect_from: /
 
 # Benjamin T. Sengupta
 
-Student, Frontend Software Engineer.
+Student, Frontend Software Developer.
 
-Châteauneuf-Grasse, France
+Magagnosc, France
 
 <a href="mailto:benjamin.sengupta@gmail.com">benjamin.sengupta@gmail.com</a>
 
@@ -28,17 +28,17 @@ Châteauneuf-Grasse, France
 
 ## Profile
 
-Benjamin is creative, sharp and self-motivated. With his passion for new technologies and his focus on a future career in computer science, Benjamin acquires experience in the field at a young age. His motivated and curiosity enables him to learn at a fast pace in fields of Web Development, Data Science or anything tech-related.
+Benjamin is creative, intelligent and self-motivated. Passionate for new technologies and focused on a future career in computer science, Benjamin acquires new technology skills rapidly and intuitively. His motivation and curiosity makes him well-suited for jobs in web development, data management or anything tech-related.
 
 ## Currently
 
 Student at Lycée International de Valbonne studying Math, Physics and Computer Science.
 
-### Specialized in
+### Seeking work as
 
 Frontend app development with React-Native
 
-### Interests
+### Other Interests
 
 Swimming, Hiking, Skiing, Reading, Programming.
 
@@ -69,14 +69,14 @@ Functional: German
 ## Work Experience
 
 `Sept. 2019 - 2020`
-**App Development: Topic**
+**App Development: "Topic" App**
 
-- Head Frontend Programmer in team of six programmers. Build and deploy an app in a production environment from scratch using React-Native, VueJS, NodeJS, mongoDB, Docker Swarm, OpenMapTiles and more.
+- Lead Frontend Programmer out of six programmers on team. Build and deploy an app in a production environment from scratch using React-Native, VueJS, NodeJS, mongoDB, Docker Swarm, OpenMapTiles and more.
 
 `Sept. 2019 - Feb. 2020`
 **FIRST Tech Challenge 2019**
 
-- **Winning Alliance** and **ARM™ Control Award** at First Tech Challenge UK Qualifiers in Cambridge. Teams of 15 compete to build, program and operate robots in a head-to-head challenge. [Read More](https://www.firstinspires.org/robotics/ftc)
+- **Winning Alliance**, **New UK Record** and **ARM™ Control Award** at First Tech Challenge UK Qualifiers in Cambridge, England. Lead role on team of 15 competing to build, program and operate robots in a head-to-head challenge. [Read More](https://www.firstinspires.org/robotics/ftc)
 
 `February 2018`
 **Laboratoire i3S**
@@ -84,14 +84,14 @@ Functional: German
 - Apprenticeship at one of the largest science laboratories in the French Riviera with Dr. HAMEL of the University of Nice Sophia Antipolis. _Sophia Antipolis, France_
 
 `July 2017`
-**Grenoble INP ESISAR**
+**Grenoble INP ESISAR (Ecole d'Ingénieurs en Systèmes Embarqués)**
 
 - Automated Package Deployment for training labs & Email Administration for the University. _Valence, France_
 
 `July 2016`
 **Veterinary Clinic St Augustin**
 
-- Participated in all aspects of intake, assessment, surgery, pet care at a large urban veterinary clinic. _Nice, France_
+- Participated in all aspects of intake, assessment, surgery and petcare at a large urban veterinary clinic. _Nice, France_
 
 `2010 - 2012`
 **Bras Ouverts**
@@ -101,7 +101,7 @@ Functional: German
 ## Education
 
 `2018 - 2021`
-**Lycée International de Valbonne (GPA 16.5)**
+**Lycée International de Valbonne**
 
 - Sophia Antipolis, France
 
@@ -116,7 +116,7 @@ Functional: German
 - La Colle-sur-Loup, France
 
 `2010 - 2012`
-**École Cours Champollion (Private)**
+**École Cours Champollion**
 
 - Villeneuve-Loubet, France
 
@@ -133,7 +133,7 @@ Functional: German
 ## Qualifications
 
 `In Progress — July 2021`
-**Baccalauréat (General)**
+**Baccalauréat General**
 
 - International Option
 

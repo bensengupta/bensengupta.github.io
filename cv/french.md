@@ -9,7 +9,7 @@ permalink: /cv/fr/
 
 Étudiant, Développeur Frontend.
 
-Châteauneuf-Grasse, France
+Magagnosc, France
 
 <a href="mailto:benjamin.sengupta@gmail.com">benjamin.sengupta@gmail.com</a>
 
@@ -27,13 +27,13 @@ Châteauneuf-Grasse, France
 
 ## Profil
 
-Benjamin est créatif, intelligent et motivé. Avec sa passion pour les nouvelles technologies et son dévouement à une future carrière en informatique, Benjamin acquiert de l'expérience dans le domaine à un jeune âge. Sa motivation et sa curiosité lui permettent d'apprendre rapidement dans les domaines du développement Web, de la science des données ou de la technologie en général.
+Benjamin est créatif, intelligent et motivé. Passionné avec les nouvelles technologies et dévoué à une future carrière en informatique, Benjamin acquiert de nouvelles compétences techniques de façon rapide et intuitive. Sa motivation et sa curiosité lui rend apte dans les domaines du développement Web, de la science des données ou de la technologie en général.
 
 ## En ce moment
 
 Étudiant au Lycée International de Valbonne avec spécialités Math, Physique et Numérique.
 
-### Spécialité
+### Cherchant en emploi
 
 Développement frontend d'applications mobiles avec React-Native
 
@@ -68,14 +68,14 @@ Fonctionnel: Allemand
 ## Expérience Professionnelle
 
 `Sept. 2019 - 2020`
-**Développement Mobile: Topic**
+**Développement Mobile: "Topic" App**
 
 - Programmeur en charge de la partie frontend dans une équipe de six programmeurs. Concevoir et déployez une application dans un environnement de production à partir de zéro en utilisant React-Native, VueJS, NodeJS, mongoDB, Docker Swarm, OpenMapTiles et plus encore.
 
 `Sept. 2019 - Fév. 2020`
 **FIRST Tech Challenge 2019**
 
-- **Alliance Gagnante** et **ARM™ Control Award** au Qualificatifs First Tech Challenge UK à Cambridge. Équipes de 15 s'affrontent pour concevoir, construire, programmer et opérer leurs robots dans un défi de taille. [En Savoir Plus](https://www.firstinspires.org/robotics/ftc)
+- **Alliance Gagnante**, **Nouveau Record Britannique** et **ARM™ Control Award** au Qualificatifs First Tech Challenge UK à Cambridge. Équipes de 15 s'affrontent pour concevoir, construire, programmer et opérer leurs robots dans un défi de taille. [En Savoir Plus](https://www.firstinspires.org/robotics/ftc)
 
 `Février 2018`
 **Laboratoire i3S**
@@ -83,7 +83,7 @@ Fonctionnel: Allemand
 - Stage dans l'un des plus grands laboratoires scientifiques de la Côte d'Azur avec Dr. HAMEL de l'Université de Nice Sophia Anitpolis. _Sophia Antipolis, France_
 
 `Juin 2017`
-**Grenoble INP ESISAR**
+**Grenoble INP ESISAR (Ecole d'Ingénieurs en Systèmes Embarqués)**
 
 - Déploiement automatisé de logiciels pour les laboratoires de formation et administration des e-mails pour l'Université. _Valence, France_
 
@@ -100,7 +100,7 @@ Fonctionnel: Allemand
 ## Éducation
 
 `2018 - 2021`
-**Lycée International de Valbonne (GPA 16.5)**
+**Lycée International de Valbonne**
 
 - Sophia Antipolis, France
 
@@ -115,7 +115,7 @@ Fonctionnel: Allemand
 - La Colle-sur-Loup, France
 
 `2010 - 2012`
-**École Cours Champollion (Privée)**
+**École Cours Champollion**
 
 - Villeneuve-Loubet, France
 
@@ -132,7 +132,7 @@ Fonctionnel: Allemand
 ## Qualifications
 
 `En Cours — Juin 2021`
-**Baccalauréat (Général)**
+**Baccalauréat Général**
 
 - Option Internationale
 
