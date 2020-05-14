@@ -124,7 +124,7 @@ Fonctionnel: Allemand
 
 - Gatineau, Québec, Canada
 
-`2007-2009`
+`2007 - 2009`
 **École Publique Kanata**
 
 - Kanata, Ontario, Canada
